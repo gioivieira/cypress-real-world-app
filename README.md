@@ -1,1 +1,1 @@
-# exercicios-cypress
+# cypress-real-world-app
